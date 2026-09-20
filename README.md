@@ -1,2 +1,2 @@
 # Trainstation-Francais-Classic
-Pour lister, indiquer etajouterdesamis de jeu Trainstation Classic de Pixelfederation
+Pour lister, indiquer et ajouter des amis de jeu Trainstation Classic de Pixelfederation
